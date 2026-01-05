@@ -1,13 +1,12 @@
 🕘️更新时间,#genre#
-2026-01-05 06:24:47,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+2026-01-05 18:31:54,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 📺央视频道,#genre#
 CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
-CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
@@ -17,6 +16,5 @@ CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8
-深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8
 
 ☘️广东频道,#genre#
