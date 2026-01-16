@@ -12,6 +12,12 @@ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
+https://ghproxy.1888866.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
+https://m3u.ibert.me/txt/j_iptv.txt
+https://m3u.ibert.me/txt/o_cn.txt
 
 
 [WHITELIST]
