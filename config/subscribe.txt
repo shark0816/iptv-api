@@ -16,8 +16,7 @@ https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套�
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 https://ghproxy.1888866.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://m3u.ibert.me/txt/j_iptv.txt
-https://m3u.ibert.me/txt/o_cn.txt
+
 
 
 [WHITELIST]
