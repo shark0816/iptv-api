@@ -2,9 +2,6 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
-https://188766.xyz/itv
-https://fy.188766.xyz/?ip=home.kuaidi521.com
-https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
 https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
@@ -12,13 +9,14 @@ https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
 https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
 https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
-https://ghproxy.1888866.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
 
 
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
+
+https://188766.xyz/itv
+https://fy.188766.xyz/?ip=home.kuaidi521.com
+https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
+
 # This is the whitelist for subscription sources. Subscription sources in the whitelist will not participate in speed testing and will always be retained at the front of the results.
