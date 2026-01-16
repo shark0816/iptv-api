@@ -1,14 +1,14 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
-https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
 https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
 https://raw.githubusercontent.com/lml1971/tv/refs/heads/main/tv.txt
 https://raw.githubusercontent.com/suxuang/myIPTV/refs/heads/main/ipv4.m3u
-https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/refs/heads/main/%E7%BD%91%E7%BB%9C%E6%94%B6%E9%9B%86.txt
+https://live.zbds.top/tv/iptv4.txt
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+
 
 
 
