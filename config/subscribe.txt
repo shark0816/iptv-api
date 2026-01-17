@@ -2,6 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 
 https://188766.xyz/itv
+https://my9.ltd/tv/pllive.txt
 https://fy.188766.xyz/?ip=home.kuaidi521.com
 https://fy.188766.xyz/?ip=&bconly=true&mima=mianfeidehaimaiqian
 https://raw.githubusercontent.com/jn950/live/main/tv/pllive.txt
